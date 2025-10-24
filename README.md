@@ -39,11 +39,11 @@ Follows the **CRISP-ML(Q)** framework:
 ---
 
 ## 📈 Model Performance
-| Model | Accuracy | Precision | Recall | F1-Score |
-|--------|-----------|------------|---------|-----------|
-| Logistic Regression | **92.37%** | 0.96 / 0.90 | 0.89 / 0.96 | 0.92 / 0.93 |
-| BERT | 88.00% | - | - | - |
-| DistilBERT | 90.08% | - | - | - |
+| Model | Accuracy |
+|--------|-----------|
+| Logistic Regression | **92.37%** |
+| BERT | 88.00% |
+| DistilBERT | 90.08% |
 
 ---
 
